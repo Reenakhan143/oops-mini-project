@@ -1,0 +1,19 @@
+{
+  "name": "23reena-oop-object-oriented-program",
+  "version": "1.0.0",
+  "description": "\"a simple oop project\"",
+  "main": "index.js",
+  "type": "module",
+  
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "\"Reena khan\"",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.23"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
